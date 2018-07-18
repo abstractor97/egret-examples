@@ -10,4 +10,4 @@
 ## 目录
 * [1. 显示对象基本](https://github.com/ljcGitHub/egret-examples/tree/master/one/1)
   * [1.1 基本的显示](https://github.com/ljcGitHub/egret-examples/tree/master/one/1)
-  * [1.2 锚点及旋转缩放](https://github.com/ljcGitHub/egret-examples/tree/master/one/1)
+  * [1.2 锚点及旋转缩放](https://github.com/ljcGitHub/egret-examples/tree/master/one/2)
