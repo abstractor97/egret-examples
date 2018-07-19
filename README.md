@@ -19,4 +19,5 @@
 * [2. 图形绘制](https://github.com/ljcGitHub/egret-examples/tree/master/demo02/1)
   * [2.1 贝塞尔曲线](https://github.com/ljcGitHub/egret-examples/tree/master/demo02/1)
   * [2.2 圆弧](https://github.com/ljcGitHub/egret-examples/tree/master/demo02/2)
+  * [2.3 高级圆弧](https://github.com/ljcGitHub/egret-examples/tree/master/demo02/3)
   
