@@ -6,6 +6,7 @@
 
 #### 前言
 我找了好多教程，找不到，看官网示例学习，但是好像没一个完整的，或者缺了部分的代码，本文写demo学习。
+部分只有Main.ts文件，需要拷贝其他文件夹下内容，才可以运行。
 
 ## 目录
 * [1. 显示对象基本](https://github.com/ljcGitHub/egret-examples/tree/master/demo01/1)
@@ -20,4 +21,11 @@
   * [2.1 贝塞尔曲线](https://github.com/ljcGitHub/egret-examples/tree/master/demo02/1)
   * [2.2 圆弧](https://github.com/ljcGitHub/egret-examples/tree/master/demo02/2)
   * [2.3 高级圆弧](https://github.com/ljcGitHub/egret-examples/tree/master/demo02/3)
+  * [2.4 圆，线，矩形](https://github.com/ljcGitHub/egret-examples/tree/master/demo02/4)
+* [3. 高级图像](https://github.com/ljcGitHub/egret-examples/tree/master/demo03/1)
+  * [3.1 脏矩形](https://github.com/ljcGitHub/egret-examples/tree/master/demo03/1)
+* [4. 显示交互](https://github.com/ljcGitHub/egret-examples/tree/master/demo04/1)
+  * [4.1 拖动](https://github.com/ljcGitHub/egret-examples/tree/master/demo04/1)
+  
+  
   
