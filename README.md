@@ -26,6 +26,5 @@
   * [3.1 脏矩形](https://github.com/ljcGitHub/egret-examples/tree/master/demo03/1)
 * [4. 显示交互](https://github.com/ljcGitHub/egret-examples/tree/master/demo04/1)
   * [4.1 拖动](https://github.com/ljcGitHub/egret-examples/tree/master/demo04/1)
-  
-  
+  * [4.2 多点触摸](https://github.com/ljcGitHub/egret-examples/tree/master/demo04/2)
   
