@@ -27,4 +27,10 @@
 * [4. 显示交互](https://github.com/ljcGitHub/egret-examples/tree/master/demo04/1)
   * [4.1 拖动](https://github.com/ljcGitHub/egret-examples/tree/master/demo04/1)
   * [4.2 多点触摸](https://github.com/ljcGitHub/egret-examples/tree/master/demo04/2)
+* [5. 缓动动画](https://github.com/ljcGitHub/egret-examples/tree/master/demo05/1)
+  * [5.1 基本缓动](https://github.com/ljcGitHub/egret-examples/tree/master/demo05/1)
+  * [5.2 缓动产生事件](https://github.com/ljcGitHub/egret-examples/tree/master/demo05/2)
+  * [5.3 缓动过程方程](https://github.com/ljcGitHub/egret-examples/tree/master/demo05/3)
+  * [5.4 复合缓动](https://github.com/ljcGitHub/egret-examples/tree/master/demo05/4)
+  
   
