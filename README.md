@@ -32,5 +32,8 @@
   * [5.2 缓动产生事件](https://github.com/ljcGitHub/egret-examples/tree/master/demo05/2)
   * [5.3 缓动过程方程](https://github.com/ljcGitHub/egret-examples/tree/master/demo05/3)
   * [5.4 复合缓动](https://github.com/ljcGitHub/egret-examples/tree/master/demo05/4)
+* [6. 时间与运行](https://github.com/ljcGitHub/egret-examples/tree/master/demo06/1)
+  * [6.1 动态帧频](https://github.com/ljcGitHub/egret-examples/tree/master/demo06/1)
+  * [6.2 动态帧频](https://github.com/ljcGitHub/egret-examples/tree/master/demo06/2)
   
   
